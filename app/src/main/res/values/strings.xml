@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">ByzType</string>
+    <string name="fr_auth_reenter_toast">Неправильный логин или пароль </string>
+    <string name="fr_auth_login_hint">Логин</string>
+    <string name="fr_auth_password_hint">Пароль</string>
+    <string name="fr_auth_buttonEnter_text">Войти</string>
+    <string name="fr_auth_buttonFP_text">Забыли пароль</string>
+    <string name="app_menu_settings">Настройки</string>
+    <string name="app_menu_logout">Выйти</string>
+    <string name="app_main_MainMenu_name">Главная</string>
+    <string name="app_main_DevelopmentsMenu_name">События</string>
+    <string name="app_main_StatisticsMenu_name">Статистика</string>
+    <string name="app_main_CatalogMenu_name">Справочник</string>
+    <string name="app_main_ArhieveMenu_name">Архив</string>
+    <string name="nav_header_main_Name">My App</string>
+    <string name="nav_header_main_Name2">Hello</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="hello_blank_fragment">Hello, admin!</string>
+    <string name="app_main_NotesMenu_name">Заметки</string>
+
+
+    <string name="msg_no_notes">Заметок не обнаружено</string>
+    <string name="lbl_new_note_title">Новая заметка</string>
+    <string name="lbl_edit_note_title">Редактирование заметки</string>
+
+    <string name="hint_enter_note">Введите текст вашей заметки!</string>
+    <string name="msg_no_contacts">Контактов не обнаружено</string>
+    <string name="msg_new_contact">Новый контакт</string>
+    <string name="lbl_edit_contact_title">Редактирование контакта</string>
+    <string name="lbl_edit_dev_title">Редактирование события</string>
+    <string name="hint_layout_contact">Введите контакт</string>
+    <string name="hint_layout_descr">Описание</string>
+    <string name="hint_layout_mail">E-mail</string>
+    <string name="hint_layout_phone">Телефон</string>
+    <string name="text_contact_info">Контактная информация: </string>
+    <string name="text_contact_phone">Телефон: </string>
+    <string name="text_contact_email">E-mail: </string>
+    <string name="number_hint">+7</string>
+    <string name="text_help_phone2">Дополнительный: </string>
+    <string name="msg_no_devs">Событий не обнаружено</string>
+    <string name="msg_new_dev">Новое событие</string>
+    <string name="hint_tab1_name">Введите событие:</string>
+    <string name="hint_tab1_date">Выберите дату:</string>
+    <string name="et_tab1_entertime">Введите время:</string>
+    <string name="et_tab1_enter_date">Выберите дату:</string>
+    <string name="msg_start_arhieve">Архив</string>
+    <string name="ac_main_start_text">Главная</string>
+    <string name="ft_statistic_start_text">Статистика</string>
+
+</resources>
